@@ -1,0 +1,97 @@
+name: Sync Latest Opportunities
+
+on:
+  schedule:
+    # Runs automatically twice daily at 06:00 and 18:00 UTC
+    - cron: '0 6,18 * * *'
+  workflow_dispatch: # Allows manual 1-click trigger anytime from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch Feed and Update README
+        run: |
+          node -e "
+          const fs = require('fs');
+
+          async function run() {
+            try {
+              const res = await fetch('https://nexttechcareer.com/feed.xml');
+              if (!res.ok) throw new Error('HTTP ' + res.status);
+              const xml = await res.text();
+              const items = [];
+              const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+              let match;
+              while ((match = itemRegex.exec(xml)) !== null && items.length < 20) {
+                const content = match[1];
+                const titleMatch = content.match(/<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>/);
+                const linkMatch = content.match(/<link>(.*?)<\/link>/);
+                const catMatch = content.match(/<category>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/category>/);
+                const srcMatch = content.match(/<source[^>]*>(.*?)<\/source>/);
+
+                const rawTitle = titleMatch ? titleMatch[1].trim() : '';
+                const parts = rawTitle.split(' - ');
+                const title = parts[0] || rawTitle;
+                const org = parts[1] || (srcMatch ? srcMatch[1].trim() : 'Global Partner');
+                const link = linkMatch ? linkMatch[1].trim() : '';
+                const cat = catMatch ? catMatch[1].trim() : 'Opportunity';
+
+                items.push({ title, org, cat, link });
+              }
+
+              if (items.length === 0) {
+                console.log('No opportunities found in feed.');
+                return;
+              }
+
+              let table = '<!-- OPPORTUNITIES:START -->\n';
+              table += '| Opportunity | Organization | Type | Apply / Details |\n';
+              table += '| :--- | :--- | :--- | :--- |\n';
+              for (const it of items) {
+                table += '| **' + it.title + '** | ' + it.org + ' | ' + it.cat + ' | [View on NextTechCareer](' + it.link + ') |\n';
+              }
+              table += '<!-- OPPORTUNITIES:END -->';
+
+              let readme = fs.readFileSync('README.md', 'utf8');
+              const startTag = '<!-- OPPORTUNITIES:START -->';
+              const endTag = '<!-- OPPORTUNITIES:END -->';
+              const startIdx = readme.indexOf(startTag);
+              const endIdx = readme.indexOf(endTag);
+
+              if (startIdx !== -1 && endIdx !== -1) {
+                readme = readme.substring(0, startIdx) + table + readme.substring(endIdx + endTag.length);
+                fs.writeFileSync('README.md', readme, 'utf8');
+                console.log('Successfully updated README.md with ' + items.length + ' opportunities.');
+              }
+            } catch (err) {
+              console.error('Error during sync:', err.message);
+              process.exit(1);
+            }
+          }
+
+          run();
+          "
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git add README.md
+            git commit -m "chore: sync latest verified opportunities from NextTechCareer [skip ci]"
+            git push
+          else
+            console.log "No changes in opportunities list."
+          fi
