@@ -93,5 +93,5 @@ jobs:
             git commit -m "chore: sync latest verified opportunities from NextTechCareer [skip ci]"
             git push
           else
-            console.log "No changes in opportunities list."
+            echo "No changes in opportunities list."
           fi
