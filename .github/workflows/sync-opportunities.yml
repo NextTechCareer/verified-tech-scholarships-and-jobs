@@ -23,36 +23,42 @@ jobs:
 
       - name: Fetch Feed and Build Categorized Tables
         run: |
-          node -e "
+          node << 'EOF'
           const fs = require('fs');
 
           async function run() {
             try {
               const res = await fetch('https://nexttechcareer.com/feed.xml');
-              if (!res.ok) throw new Error('HTTP ' + res.status);
+              if (!res.ok) throw new Error('HTTP status ' + res.status);
               const xml = await res.text();
               const items = [];
-              const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-              let match;
-              while ((match = itemRegex.exec(xml)) !== null) {
-                const content = match[1];
-                const titleMatch = content.match(/<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>/);
-                const linkMatch = content.match(/<link>(.*?)<\/link>/);
-                const catMatch = content.match(/<category>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/category>/);
-                const srcMatch = content.match(/<source[^>]*>(.*?)<\/source>/);
 
+              const parts = xml.split('<item>');
+              for (let i = 1; i < parts.length; i++) {
+                const chunk = parts[i].split('</item>')[0];
+                const titleMatch = chunk.match(/<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>/s);
                 const rawTitle = titleMatch ? titleMatch[1].trim() : '';
-                const parts = rawTitle.split(' - ');
-                const title = parts[0] || rawTitle;
-                const org = parts[1] || (srcMatch ? srcMatch[1].trim() : 'Global Partner');
+                const titleParts = rawTitle.split(' - ');
+                const title = titleParts[0] || rawTitle;
+
+                const srcMatch = chunk.match(/<source[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/source>/s);
+                const org = titleParts[1] || (srcMatch ? srcMatch[1].trim() : 'Global Partner');
+
+                const linkMatch = chunk.match(/<link>(.*?)<\/link>/s);
                 const link = linkMatch ? linkMatch[1].trim() : '';
+
+                const catMatch = chunk.match(/<category>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/category>/s);
                 const cat = catMatch ? catMatch[1].trim() : 'Opportunity';
 
-                items.push({ title, org, cat, link });
+                if (title && link) {
+                  items.push({ title, org, cat, link });
+                }
               }
 
+              console.log('Total opportunities parsed from feed:', items.length);
+
               if (items.length === 0) {
-                console.log('No opportunities found in feed.');
+                console.log('No opportunities found.');
                 return;
               }
 
@@ -101,9 +107,12 @@ jobs:
 
               if (startIdx !== -1 && endIdx !== -1) {
                 readme = readme.substring(0, startIdx) + output + readme.substring(endIdx + endTag.length);
-                fs.writeFileSync('README.md', readme, 'utf8');
-                console.log('Successfully updated README.md with ' + items.length + ' categorized opportunities.');
+              } else {
+                readme = readme + '\n\n' + output;
               }
+
+              fs.writeFileSync('README.md', readme, 'utf8');
+              console.log('Successfully wrote categorized opportunities to README.md');
             } catch (err) {
               console.error('Error during sync:', err.message);
               process.exit(1);
@@ -111,16 +120,16 @@ jobs:
           }
 
           run();
-          "
+          EOF
 
       - name: Commit & Push Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain README.md)" ]; then
-            git add README.md
-            git commit -m "chore: sync categorized opportunities from NextTechCareer [skip ci]"
+          git add README.md
+          if git commit -m "chore: sync categorized opportunities from NextTechCareer [skip ci]"; then
             git push
+            echo "Changes pushed to main successfully!"
           else
-            echo "No changes in opportunities list."
+            echo "README is already up to date."
           fi
