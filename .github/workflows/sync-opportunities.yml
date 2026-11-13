@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs automatically twice daily at 06:00 and 18:00 UTC
     - cron: '0 6,18 * * *'
-  workflow_dispatch: # Allows manual 1-click trigger anytime from GitHub UI
+  workflow_dispatch: # Allows manual 1-click trigger anytime
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch Feed and Update README
+      - name: Fetch Feed and Build Categorized Tables
         run: |
           node -e "
           const fs = require('fs');
@@ -34,7 +34,7 @@ jobs:
               const items = [];
               const itemRegex = /<item>([\s\S]*?)<\/item>/g;
               let match;
-              while ((match = itemRegex.exec(xml)) !== null && items.length < 20) {
+              while ((match = itemRegex.exec(xml)) !== null) {
                 const content = match[1];
                 const titleMatch = content.match(/<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>/);
                 const linkMatch = content.match(/<link>(.*?)<\/link>/);
@@ -56,13 +56,42 @@ jobs:
                 return;
               }
 
-              let table = '<!-- OPPORTUNITIES:START -->\n';
-              table += '| Opportunity | Organization | Type | Apply / Details |\n';
-              table += '| :--- | :--- | :--- | :--- |\n';
+              const groups = {
+                scholarships: { title: '### 🎓 Computer Science Scholarships & Fellowships', items: [] },
+                jobs: { title: '### 💼 Software Engineering & Tech Jobs', items: [] },
+                trainings: { title: '### 📜 Free Tech Trainings & Certification Vouchers', items: [] },
+                consultancies: { title: '### 🌐 Consultancies & Research Positions', items: [] },
+                other: { title: '### 🌟 Other Featured Opportunities', items: [] }
+              };
+
               for (const it of items) {
-                table += '| **' + it.title + '** | ' + it.org + ' | ' + it.cat + ' | [View on NextTechCareer](' + it.link + ') |\n';
+                const c = (it.cat || '').toLowerCase();
+                if (c.includes('scholarship') || c.includes('fellowship')) {
+                  groups.scholarships.items.push(it);
+                } else if (c.includes('training') || c.includes('course') || c.includes('cert')) {
+                  groups.trainings.items.push(it);
+                } else if (c.includes('consultancy')) {
+                  groups.consultancies.items.push(it);
+                } else if (c.includes('job') || c.includes('internship') || c.includes('career')) {
+                  groups.jobs.items.push(it);
+                } else {
+                  groups.other.items.push(it);
+                }
               }
-              table += '<!-- OPPORTUNITIES:END -->';
+
+              let output = '<!-- OPPORTUNITIES:START -->\n\n';
+              for (const key of ['scholarships', 'jobs', 'trainings', 'consultancies', 'other']) {
+                const g = groups[key];
+                if (g.items.length === 0) continue;
+                output += g.title + '\n\n';
+                output += '| Opportunity | Organization | Type | Apply Link |\n';
+                output += '| :--- | :--- | :--- | :--- |\n';
+                for (const item of g.items) {
+                  output += '| **' + item.title + '** | ' + item.org + ' | ' + item.cat + ' | [Apply on NextTechCareer ↗](' + item.link + ') |\n';
+                }
+                output += '\n';
+              }
+              output += '<!-- OPPORTUNITIES:END -->';
 
               let readme = fs.readFileSync('README.md', 'utf8');
               const startTag = '<!-- OPPORTUNITIES:START -->';
@@ -71,9 +100,9 @@ jobs:
               const endIdx = readme.indexOf(endTag);
 
               if (startIdx !== -1 && endIdx !== -1) {
-                readme = readme.substring(0, startIdx) + table + readme.substring(endIdx + endTag.length);
+                readme = readme.substring(0, startIdx) + output + readme.substring(endIdx + endTag.length);
                 fs.writeFileSync('README.md', readme, 'utf8');
-                console.log('Successfully updated README.md with ' + items.length + ' opportunities.');
+                console.log('Successfully updated README.md with ' + items.length + ' categorized opportunities.');
               }
             } catch (err) {
               console.error('Error during sync:', err.message);
@@ -90,7 +119,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain README.md)" ]; then
             git add README.md
-            git commit -m "chore: sync latest verified opportunities from NextTechCareer [skip ci]"
+            git commit -m "chore: sync categorized opportunities from NextTechCareer [skip ci]"
             git push
           else
             echo "No changes in opportunities list."
