@@ -28,6 +28,11 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Applied Biodiversity Management and Resilient Ecosystem Transitions** | BIOVERTE | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/applied-biodiversity-management-and-resilient-ecosystem-transitions-382787ed) |
+| **MSc WAVES: Water Vulnerability Engineering in Spatial Sciences** | WAVES Consortium (University of Twente, University of Padova, University of Ljubljana) | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/msc-waves-water-vulnerability-engineering-in-spatial-sciences-9760087e) |
+| **Erasmus Mundus Joint Master Degree in Nuclear Decommissioning and Environmental Remediation** | University of Porto | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-in-nuclear-decommissioning-and-environme-028ad810) |
+| **SECCLO Erasmus Mundus Joint Master Degree** | SECCLO | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/secclo-erasmus-mundus-joint-master-degree-f3499e3e) |
+| **Erasmus Mundus Joint Master Degree and scholarships** | European Master in Sustainable Systems Engineering (EMSSE) | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-and-scholarships-9fff845a) |
 | **Erasmus Mundus Joint Master’s in AI, Sustainability and Participatory Design** | Erasmus Mundus | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-masters-in-ai-sustainability-and-participatory-design-2eb3722e) |
 | **European Master in Migration and Intercultural Relations (EMMIR) Edition 14** | EMMIR Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-in-migration-and-intercultural-relations-emmir-edition-14-b0c12f93) |
 | **Flood Risk Master Programme** | IHE Delft, TU Dresden, UPC Barcelona, University of Ljubljana | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/flood-risk-master-programme-f9bf4470) |
@@ -50,22 +55,29 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Erasmus Mundus Joint Master in Chemoinformatics+** | Erasmus Mundus Joint Master | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-in-chemoinformatics-f335a7cd) |
 | **Erasmus Mundus Master of Science in Public Sector Innovation and e-Governance (PIONEER)** | KU Leuven | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-master-of-science-in-public-sector-innovation-and-e-governan-3a1a899a) |
 | **Erasmus Mundus Master in Quantum Technologies and Engineering (QuanTEEM)** | QuanTEEM Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-master-in-quantum-technologies-and-engineering-quanteem-a564d9ca) |
-| **SWE Scholarship Interest Form for the 2027-2028 Academic Year** | Society of Women Engineers | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/swe-scholarship-interest-form-for-the-2027-2028-academic-year-86b16f38) |
-| **NANOMED Master Program & Erasmus Scholarships** | NANOMED Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/nanomed-master-program-erasmus-scholarships-4e96077f) |
-| **Master in Urban Climate and Sustainability (MUrCS)** | Erasmus Mundus Joint Master Programme | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/master-in-urban-climate-and-sustainability-murcs-392022db) |
-| **GEMMA Master's Degree in Women's and Gender Studies** | Universidad de Granada | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/gemma-masters-degree-in-womens-and-gender-studies-3e6ff71f) |
-| **European Master of Science in Nuclear Fusion and Engineering Physics (FUSION-EP)** | FUSION-EP Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-of-science-in-nuclear-fusion-and-engineering-physics-fusion-cbbaabcd) |
-| **Erasmus Mundus Joint Master Degree Cultures Littéraires Européennes (Master CLE)** | Erasmus Mundus CLE Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-cultures-litt-raires-europ-ennes-master--6d6114f4) |
-| **Transition, Innovation and Sustainable Environments (TISE) Master Programme** | Transition, Innovation and Sustainable Environments Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/transition-innovation-and-sustainable-environments-tise-master-programme-3a1bfd19) |
-| **Erasmus Mundus Joint Master Degree in STRAINS Scholarship** | Université de Lille | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-in-strains-scholarship-7c18f418) |
-| **Euroculture: European Politics, Culture, and Society in a Global Context (Erasmus Mundus Joint Master)** | Euroculture Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/euroculture-european-politics-culture-and-society-in-a-global-context-erasm-d612cb7a) |
-| **Erasmus Mundus Joint Master Degree in Waves, Acoustics, Vibrations, Engineering and Sound (WAVES)** | Erasmus Mundus WAVES Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-in-waves-acoustics-vibrations-engineerin-70a8664b) |
-| **FIPDes Food Innovation and Product Design Master's Programme** | FIPDes | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/fipdes-food-innovation-and-product-design-masters-programme-0f8bf458) |
 
 ### 💼 Software Engineering & Tech Jobs
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Electronics Engineer ATLAS ITk Pixel OB (EP-ATL-TRK-2026-256-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/electronics-engineer-atlas-itk-pixel-ob-ep-atl-trk-2026-256-grae-49077710) |
+| **Junior Electrical Systems Asset Manager (EN-EL-MO-2026-253-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/junior-electrical-systems-asset-manager-en-el-mo-2026-253-grae-cf84addf) |
+| **Database Infrastructure Engineer (IT-DA-DB-2026-174-LD)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/database-infrastructure-engineer-it-da-db-2026-174-ld-d205123b) |
+| **Junior Automation & Controls Engineer (SY-EPC-CCS-2026-254-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/junior-automation-controls-engineer-sy-epc-ccs-2026-254-grae-a35d1bec) |
+| **Junior Distributed Storage Engineer (IT-SD-PDS-2026-246-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/junior-distributed-storage-engineer-it-sd-pds-2026-246-grae-0d99d127) |
+| **Electrical Design Technician (EN-EL-DDO-2026-218-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/electrical-design-technician-en-el-ddo-2026-218-grae-1efcf78c) |
+| **Junior Communication Officer (ATS-DO-2026-252-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/junior-communication-officer-ats-do-2026-252-grae-70abde43) |
+| **Machine Learning Engineer (TE-DPS-AIM-2026-223-LD)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/machine-learning-engineer-te-dps-aim-2026-223-ld-ae35fb46) |
+| **AI Content Specialist** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ai-content-specialist-44a02451) |
+| **GEO Expert** | Hybrid | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/geo-expert-hybrid-9d1499d8) |
+| **INFORMATION SYSTEMS OFFICER, P3** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-systems-officer-p3-2034a2c0) |
+| **Information Systems Officer, P3** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-systems-officer-p3-32533468) |
+| **SECONDMENT** | Coordinator Cyber Strategy | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/secondment-coordinator-cyber-strategy-aea0d25e) |
+| **Analyst Programmer- Information Management & Technology** | United Nations Relief and Works Agency (UNRWA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/analyst-programmer-information-management-technology-90972506) |
+| **Data Scientist** | INTERPOL | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/data-scientist-17ff97a2) |
+| **Senior Information Management and GIS Associate – DTM** | International Organization for Migration | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-information-management-and-gis-associate-dtm-2c1a776a) |
+| **Information Management (IM) & Geographic Information Systems (GIS) Officer** | International Organization for Migration | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-management-im-geographic-information-systems-gis-officer-8aa5ddd4) |
+| **Groepshoofd cluster Plantaardige Genetische Bronnen (PGR) van de WOT-unit CGN** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/groepshoofd-cluster-plantaardige-genetische-bronnen-pgr-van-de-wot-unit-cgn-d3da81f1) |
 | **Senior Data Scientist — Risk Modeling** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-data-scientist-risk-modeling-f0fba430) |
 | **Account Executive Fleet & Fuel Specialist** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/account-executive-fleet-fuel-specialist-cf57564a) |
 | **Compliance Operations Associate** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/compliance-operations-associate-5f8b368f) |
@@ -166,14 +178,11 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Information and Communications Technology (ICT) Officer (Cloud SecOps Engineer)** | International Organization for Migration | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-and-communications-technology-ict-officer-cloud-secops-engineer-08c24b23) |
 | **Management Data Analyst** | UNDP | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/management-data-analyst-a4beb0a3) |
 | **INFORMATION SYSTEMS ASSISTANT, G5** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-systems-assistant-g5-626d4415) |
-| **CONSULTANCY** | Senior Full-stack Software Developer | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/consultancy-senior-full-stack-software-developer-climpact-modernization-ssa-843450a1) |
 | **CONSULTANT** | FRONT-END DEVELOPER FOR THE "DIYA.ENGINE" PLATFORM AND WEB RESOURCES | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/consultant-front-end-developer-for-the-diya-engine-platform-and-web-resourc-a2fcf3c2) |
-| **CERN Pension Fund Investment Committee External Professional Expert** | CERN Pension Fund | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/cern-pension-fund-investment-committee-external-professional-expert-d92413a1) |
 | **Theoretical Physicist (TH-SP-2026-68-LD)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/theoretical-physicist-th-sp-2026-68-ld-6857ab6c) |
 | **Early Career Professionals** | Technical Field – Spontaneous Applications | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/early-career-professionals-technical-field-spontaneous-applications-67e2586c) |
 | **Short Term Internship 2027** | Health, Safety, Environment & Sustainability | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-health-safety-environment-sustainability-b317494f) |
 | **Short Term Internship 2027** | Administration | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-administration-2bebc88b) |
-| **Communications Specialist** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/communications-specialist-431e3427) |
 | **Firmware & FPGA Development Engineer (SY-BI-BP-2026-154-GRAP)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/firmware-fpga-development-engineer-sy-bi-bp-2026-154-grap-629be625) |
 | **Short Term Internship 2027** | Technology Transfer & Innovation | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-technology-transfer-innovation-a6190c5e) |
 | **Junior Automation & Controls Engineer (BE-ICS-ACS-2026-247-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/junior-automation-controls-engineer-be-ics-acs-2026-247-grae-74f7d760) |
@@ -195,24 +204,17 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **CERN OPENLAB Summer Student Programme 2027** | CERN | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/cern-openlab-summer-student-programme-2027-6cb5f043) |
 | **Mechanical Engineer** | ATLAS ITk Pixel Detector | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/mechanical-engineer-atlas-itk-pixel-detector-baae7dfd) |
 | **Short Term Internship 2027** | Facilities & Infrastructure Management | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-facilities-infrastructure-management-acba89be) |
-| **Asset Accountant (FAP-ACC-GA-2026-214-LD)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asset-accountant-fap-acc-ga-2026-214-ld-513c392a) |
-| **Electro-Mechanical Technician (TE-MSC-HSD-2026-193-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/electro-mechanical-technician-te-msc-hsd-2026-193-grae-2036329b) |
-| **DevOps Engineer for HEP GPU Benchmarks (IT-CE-LCG-2026-168-GRAP)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/devops-engineer-for-hep-gpu-benchmarks-it-ce-lcg-2026-168-grap-71c837f1) |
-| **Software Engineer for CERNBox (IT-SD-GSS-2026-174-GRAP)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/software-engineer-for-cernbox-it-sd-gss-2026-174-grap-c8417fd6) |
-| **Short Term Internship 2027** | Finance, Control & Audit | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-finance-control-audit-6882e7c3) |
-| **CERN Summer Student Programme 2027** | CERN | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/cern-summer-student-programme-2027-116a0a85) |
-| **Short Term Internship 2027** | Information Technologies | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-information-technologies-ebc93690) |
-| **Short Term Internship 2027** | Mechanical Engineering | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-mechanical-engineering-999b18a6) |
-| **Short Term Internship 2027** | Data Science, AI & Analytics | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-data-science-ai-analytics-238e2f0b) |
-| **Short Term Internship 2027** | Applied Physics | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-applied-physics-d5df9514) |
-| **Short Term Internship 2027** | Experimental Physics | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-experimental-physics-cd122f7b) |
-| **Short Term Internship 2027** | Human Resources | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-human-resources-178a906b) |
-| **Short Term Internship 2027** | Theoretical Physics | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-theoretical-physics-1cba4de0) |
 
 ### 📜 Free Tech Trainings & Certification Vouchers
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Erasmus Mundus Master in Quantum Technologies and Engineering** | QuanTEEM Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-master-in-quantum-technologies-and-engineering-44397650) |
+| **International Joint Master in Advanced Microscopy with Artificial Intelligence** | MICROSCOM | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-joint-master-in-advanced-microscopy-with-artificial-intellige-f33b4eaa) |
+| **Master’s Programme in Applied Cybersecurity (Erasmus Mundus Joint Master’s Degree)** | CyberMACS Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/masters-programme-in-applied-cybersecurity-erasmus-mundus-joint-masters-deg-5f037fd0) |
+| **FIPDes Master Program** | FIPDes | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/fipdes-master-program-bad47908) |
+| **International Master of Science in Marine Biological Resources** | IMBRSea | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-master-of-science-in-marine-biological-resources-2795cca8) |
+| **SEAS 4.0 Master Programme** | University of Naples Federico II | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/seas-4-0-master-programme-56b87d47) |
 | **Master of Science in Mechanics of Sustainable Materials and Structures** | TU Dortmund University, University of Trento, and Ecole Centrale de Nantes | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/master-of-science-in-mechanics-of-sustainable-materials-and-structures-3c8473cc) |
 | **European Master in Linguistic Data Science** | European Master in Linguistic Data Science (EMLDS) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-in-linguistic-data-science-48a2f6b4) |
 | **Harnessing Space Technology for Africa's Sustainable Development Training** | African Space Agency | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/harnessing-space-technology-for-africas-sustainable-development-training-5e505cf9) |
@@ -235,14 +237,12 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Joint Master in Cyberspace Behavior and E-therapy** | CYBER Joint Master | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/joint-master-in-cyberspace-behavior-and-e-therapy-1e26f1b9) |
 | **COASTHazar Erasmus Mundus Master’s Degree** | IHE Delft | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/coasthazar-erasmus-mundus-masters-degree-2453b1b8) |
 | **Apprentissage** | Agent en Information Documentaire (AID) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/apprentissage-agent-en-information-documentaire-aid-1beddb8d) |
-| **International Training Workshop: Remote Sensing for Disaster Management** | SCEE-IGIS, NUST | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-training-workshop-remote-sensing-for-disaster-management-e567abad) |
 
 ### 🌟 Other Featured Opportunities
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
 | **6th International Land Management Conference** | Land – International Network for Knowledge (LINK) | Conference | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/6th-international-land-management-conference-ff31e67a) |
-| **IEEE Student Membership & Global Student Opportunities** | IEEE | Competition | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ieee-student-membership-global-student-opportunities-3780f5ac) |
 
 <!-- OPPORTUNITIES:END -->
 
