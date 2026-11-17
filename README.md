@@ -28,7 +28,16 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **2027-2028 Fulbright Specialist Program for Indian Institutions** | United States-India Educational Foundation | Fellowship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/2027-2028-fulbright-specialist-program-for-indian-institutions-e0fd8e87) |
 | **Low-Cost Monitoring of Dynamic River Channels to Improve Flood and Drought Forecasting (PhD)** | Loughborough University | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/low-cost-monitoring-of-dynamic-river-channels-to-improve-flood-and-drought--073847ca) |
+| **European Master in Animal Biodiversity and Genomics (EMABG)** | Erasmus Mundus Joint Master | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-in-animal-biodiversity-and-genomics-emabg-0c3f419b) |
+| **Erasmus Mundus Joint Master Degree on Nuclear Physics** | Erasmus Mundus Joint Master Degree on Nuclear Physics (NucPhys) | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-on-nuclear-physics-03148fe2) |
+| **Erasmus Mundus Joint Master in Environmental Contamination and Toxicology + ONE HEALTH** | ECT+ Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-in-environmental-contamination-and-toxicology-o-ab24bcd1) |
+| **InterMaths** | Interdisciplinary Mathematics Erasmus Mundus Joint Master | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/intermaths-interdisciplinary-mathematics-erasmus-mundus-joint-master-deaee2f2) |
+| **Master of Science in Imaging and Light in Extended Reality (IMLEX)** | IMLEX Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/master-of-science-in-imaging-and-light-in-extended-reality-imlex-8edc59dd) |
+| **Erasmus Mundus Joint Master on Biomembranes (MemBioMed)** | Université Côte d'Azur | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-on-biomembranes-membiomed-56a4a3de) |
+| **Erasmus Mundus Joint Master in Mechatronic Engineering** | Erasmus Mundus Joint Master (EU4M) | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-in-mechatronic-engineering-46c5c440) |
+| **Engineering for Environmental Sustainability and International Cooperation (EESIC) Erasmus Mundus Joint Masters** | University of Trento | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/engineering-for-environmental-sustainability-and-international-cooperation--a25ea8a3) |
 | **European Master's in Clinical Linguistics (EMCL) 2027-2029** | European Master's in Clinical Linguistics (EMCL) | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-masters-in-clinical-linguistics-emcl-2027-2029-efd10ad2) |
 | **MIPDaL Erasmus Mundus Joint Master in Intellectual Property and Data Law** | MIPDaL Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/mipdal-erasmus-mundus-joint-master-in-intellectual-property-and-data-law-81c78260) |
 | **Economic Policies for the Global bifurcation (EPOG-JM) Erasmus Mundus Joint Master** | EPOG-JM | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/economic-policies-for-the-global-bifurcation-epog-jm-erasmus-mundus-joint-m-88b0b422) |
@@ -52,15 +61,12 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Master of Science in Geospatial Technologies** | Erasmus Mundus | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/master-of-science-in-geospatial-technologies-d075179a) |
 | **Erasmus Mundus Joint Master in Imaging** | Erasmus Mundus Joint Master in Imaging | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-in-imaging-24765902) |
 | **Erasmus Mundus Joint Master in Artificial Intelligence for Image Processing and Computer Vision** | Erasmus Mundus Joint Master in IPCVAI | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-in-artificial-intelligence-for-image-processing-3b9dac14) |
-| **MaMaSELF+ Master in Materials Science** | Université de Rennes | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/mamaself-master-in-materials-science-674524ec) |
-| **Erasmus Mundus Joint Master – Redesigning the Post-Industrial City (MSc RePIC)** | UNIC | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-redesigning-the-post-industrial-city-msc-repic-e9004139) |
-| **EMerald Master's in Georesources Engineering** | EMerald Erasmus Mundus Joint Master | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/emerald-masters-in-georesources-engineering-968d03d9) |
-| **Erasmus Mundus Master Degree in Plant Health in Sustainable Cropping Systems** | Erasmus Mundus | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-master-degree-in-plant-health-in-sustainable-cropping-system-17cb2596) |
 
 ### 💼 Software Engineering & Tech Jobs
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Assistant/Associate/Full Professor – Computer Engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-computer-engineering-42711ad1) |
 | **Assistant / Associate / Full Professor in Physics** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-physics-868f8068) |
 | **Assistant / Associate / Full Professor in Electrical engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-electrical-engineering-531ec25c) |
 | **Graduate assistant in Civil and Environmental Engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/graduate-assistant-in-civil-and-environmental-engineering-f7ad1a36) |
@@ -200,17 +206,15 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Project Officer Transition** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-transition-3b7c284a) |
 | **Imagery Analyst** | European Union Satellite Centre (SatCen) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/imagery-analyst-fc4237c9) |
 | **IT Product Officer** | Digital Services & Innovative | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/it-product-officer-digital-services-innovative-04183517) |
-| **YPP Exam: Development and Sustainability (for external applicants), P2** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ypp-exam-development-and-sustainability-for-external-applicants-p2-01fb6bd4) |
-| **Materials Engineer** | Polymers and Composite (TE-MSC-SMT-2026-172-GRAP) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/materials-engineer-polymers-and-composite-te-msc-smt-2026-172-grap-6f4050eb) |
-| **Short Term Internship 2027** | Procurement | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/short-term-internship-2027-procurement-f8b79d69) |
-| **Projects Coordinator for Mobility (SCE-SSC-CS-2026-171-GRAP)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/projects-coordinator-for-mobility-sce-ssc-cs-2026-171-grap-adf13856) |
-| **Export Control Compliance Lead** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/export-control-compliance-lead-e07bc1c8) |
-| **Mechanical Technician (BE-EA-DC-2026-251-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/mechanical-technician-be-ea-dc-2026-251-grae-17670f43) |
 
 ### 📜 Free Tech Trainings & Certification Vouchers
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Erasmus Mundus Master in Theoretical Chemistry and Computational Modelling** | Erasmus Mundus | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-master-in-theoretical-chemistry-and-computational-modelling-e56ec963) |
+| **EACH Erasmus Mundus Joint Master’s Programme** | Excellence in Analytical CHemistry (EACH) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/each-erasmus-mundus-joint-masters-programme-208b22a2) |
+| **Joint Master in Health and Wellbeing across the Lifespan** | Hygieia Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/joint-master-in-health-and-wellbeing-across-the-lifespan-1a48e659) |
+| **GrEnFIn-EMJM Sustainable Energy Expert Program 2027-2029** | GrEnFIn-EMJM | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/grenfin-emjm-sustainable-energy-expert-program-2027-2029-fcd8f9f1) |
 | **Response_Able Futures Erasmus Mundus Joint Master of Fine Arts** | Response_Able Futures | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/response-able-futures-erasmus-mundus-joint-master-of-fine-arts-03e6970b) |
 | **International Erasmus Mundus Master in Quaternary and Prehistory** | International Erasmus Mundus Master in Quaternary and Prehistory (IMQP) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-erasmus-mundus-master-in-quaternary-and-prehistory-9914bd92) |
 | **European Master in Biological and Chemical Engineering for a Sustainable Bioeconomy** | Bioceb Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-in-biological-and-chemical-engineering-for-a-sustainable-bi-4e5db65d) |
@@ -233,10 +237,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **European Master in Lexicography (EMLex)** | European Master in Lexicography (EMLex) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-in-lexicography-emlex-f2472b3b) |
 | **REPLAY European Master Program in Game Design** | REPLAY European Master Program | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/replay-european-master-program-in-game-design-5e9f6e39) |
 | **Erasmus Mundus Joint Master Degree on Physiology and Medicine of Humans in Space and Extreme Environments** | SPACEMED Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-on-physiology-and-medicine-of-humans-in--4610c0d9) |
-| **HySET Master's Degree in Hydrogen Systems and Enabling Technologies** | HySET Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/hyset-masters-degree-in-hydrogen-systems-and-enabling-technologies-487e21cf) |
-| **i-MESC Erasmus Mundus Joint Master** | i-MESC Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/i-mesc-erasmus-mundus-joint-master-1d459794) |
-| **Erasmus Mundus Joint Master Advanced Methods in Particle Physics** | International Master on Advanced methods in Particle Physics (IMAPP) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-advanced-methods-in-particle-physics-dff7c956) |
-| **Erasmus Mundus Master in Biomedical Engineering (EMMBIOME)** | Erasmus Mundus Master in Biomedical Engineering | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-master-in-biomedical-engineering-emmbiome-49342f74) |
 
 ### 🌟 Other Featured Opportunities
 
