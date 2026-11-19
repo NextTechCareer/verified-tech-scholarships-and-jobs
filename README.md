@@ -60,6 +60,12 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Research Associate for NISAR** | The University of Texas at Dallas | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/the-university-of-texas-at-dallas-research-associate-for-nisar) |
+| **Senior Drainage Engineer** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-senior-drainage-engineer) |
+| **Land Surveyor (Roads)** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-land-surveyor-roads) |
+| **Senior GIS Specialist** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-senior-gis-specialist-2) |
+| **GIS Manager** | Saudi National | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-gis-manager-saudi-national) |
+| **Senior GIS Specialist** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-senior-gis-specialist) |
 | **Lecturer in Information and Computer Science** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-in-information-and-computer-science-212dc1e7) |
 | **Assistant / Associate / Full Professor** | Control & Instrumentation Engineering | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-control-instrumentation-engineering-8d478e2b) |
 | **Assistant / Associate / Full Professor in Bioengineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-bioengineering-2ec34999) |
@@ -202,17 +208,10 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Postdoctoral Researcher in Health Technology Assessment: Informal Caregiver Impacts in HTA (I-CARE)** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-in-health-technology-assessment-informal-caregiver--8b12e3f4) |
 | **EngD position: AI for Underground Infrastructure Detection and Characterisation** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/engd-position-ai-for-underground-infrastructure-detection-and-characterisat-eba52783) |
 | **Postdoctoral Researcher Integrating In-Well DAS with seismological stations for offshore near-real-time monitoring** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-integrating-in-well-das-with-seismological-stations-d593d40e) |
-| **Finance and Contracts Assistant** | European Commission | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/finance-and-contracts-assistant-5376476d) |
-| **Secretary** | European Commission | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/secretary-d837dcce) |
 | **Legal Advisor** | European Research Executive Agency (REA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/legal-advisor-84a00202) |
 | **Senior Officer** | Senior Labour Mobility Officer | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-officer-senior-labour-mobility-officer-e765fda1) |
 | **Linguist Assistant** | European Commission | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linguist-assistant-71492d97) |
 | **Administrative Support Agent** | European Commission | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/administrative-support-agent-bded140e) |
-| **Project Officer Critical Infrastructure Protection and Energy Security (CIPES)** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-critical-infrastructure-protection-and-energy-security-cipe-4b181065) |
-| **Secretary** | European Commission | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/secretary-73c119b4) |
-| **Business Analyst** | (Product Owner) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/business-analyst-product-owner-491f1125) |
-| **Executive Assistant** | Research and Documentation Directorate | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/executive-assistant-research-and-documentation-directorate-4500a792) |
-| **Senior AI and Digital Services Officer** | European Labour Authority | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-ai-and-digital-services-officer-5ba12fcb) |
 
 ### 📜 Free Tech Trainings & Certification Vouchers
 
@@ -242,6 +241,7 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **18th Joint Urban Remote Sensing Event – JURSE 2027** | Joint Urban Remote Sensing Event (JURSE) | Conference | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/18th-joint-urban-remote-sensing-event-jurse-2027) |
 | **6th International Land Management Conference** | Land – International Network for Knowledge (LINK) | Conference | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/6th-international-land-management-conference-ff31e67a) |
 
 <!-- OPPORTUNITIES:END -->
