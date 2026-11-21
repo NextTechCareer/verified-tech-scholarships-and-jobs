@@ -60,6 +60,10 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Senior Design Manager** | Infrastructure and Land Development | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-design-manager-infrastructure-and-land-development) |
+| **Senior Project Manager** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-project-manager) |
+| **Senior Project Manager** | Infrastructure & Urban Development | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-project-manager-infrastructure-urban-development) |
+| **Project Assistant (MIS and Database Coordination)** | UN-Habitat | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/un-habitat-project-assistant-mis-and-database-coordination) |
 | **Research Associate for NISAR** | The University of Texas at Dallas | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/the-university-of-texas-at-dallas-research-associate-for-nisar) |
 | **Senior Drainage Engineer** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-senior-drainage-engineer) |
 | **Land Surveyor (Roads)** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-land-surveyor-roads) |
@@ -208,10 +212,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Postdoctoral Researcher in Health Technology Assessment: Informal Caregiver Impacts in HTA (I-CARE)** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-in-health-technology-assessment-informal-caregiver--8b12e3f4) |
 | **EngD position: AI for Underground Infrastructure Detection and Characterisation** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/engd-position-ai-for-underground-infrastructure-detection-and-characterisat-eba52783) |
 | **Postdoctoral Researcher Integrating In-Well DAS with seismological stations for offshore near-real-time monitoring** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-integrating-in-well-das-with-seismological-stations-d593d40e) |
-| **Legal Advisor** | European Research Executive Agency (REA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/legal-advisor-84a00202) |
-| **Senior Officer** | Senior Labour Mobility Officer | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-officer-senior-labour-mobility-officer-e765fda1) |
-| **Linguist Assistant** | European Commission | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linguist-assistant-71492d97) |
-| **Administrative Support Agent** | European Commission | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/administrative-support-agent-bded140e) |
 
 ### 📜 Free Tech Trainings & Certification Vouchers
 
