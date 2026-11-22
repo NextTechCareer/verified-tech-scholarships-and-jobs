@@ -28,6 +28,7 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Global UGRAD Program Academic Exchange** | Global UGRAD Program | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/global-ugrad-program-academic-exchange) |
 | **Chinese Government Scholarship Program 2027-28** | Higher Education Commission (HEC) / Chinese Scholarship Council | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/chinese-government-scholarship-program-2027-28-27aae640) |
 | **KAUST Global Postdoctoral Fellowship** | King Abdullah University of Science and Technology (KAUST) | Fellowship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/kaust-global-postdoctoral-fellowship-759c7855) |
 | **Erasmus Mundus SARENA** | Nuclear Engineering | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-sarena-nuclear-engineering-0ee02775) |
@@ -60,6 +61,12 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Data Engineer** | UNOPS | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/unops-data-engineer) |
+| **Data Compliance & Governance Lead; Data Protection Officer (Global)** | Linxon | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linxon-data-compliance-governance-lead-data-protection-officer-global-2) |
+| **Data Compliance & Governance Lead; Data Protection Officer (Global)** | Linxon | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linxon-data-compliance-governance-lead-data-protection-officer-global) |
+| **Senior Ecology Consultant** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-ecology-consultant) |
+| **Application Security Lead** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-application-security-lead) |
+| **International Consultant on Geospatial Data for SDG Monitoring and Official Statistics** | United Nations ESCAP | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-escap-international-consultant-on-geospatial-data-for-sdg-monitoring-an) |
 | **Senior Design Manager** | Infrastructure and Land Development | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-design-manager-infrastructure-and-land-development) |
 | **Senior Project Manager** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-project-manager) |
 | **Senior Project Manager** | Infrastructure & Urban Development | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-project-manager-infrastructure-urban-development) |
@@ -158,8 +165,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **GEO Expert** | Hybrid | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/geo-expert-hybrid-9d1499d8) |
 | **INFORMATION SYSTEMS OFFICER, P3** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-systems-officer-p3-2034a2c0) |
 | **Information Systems Officer, P3** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-systems-officer-p3-32533468) |
-| **Analyst Programmer- Information Management & Technology** | United Nations Relief and Works Agency (UNRWA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/analyst-programmer-information-management-technology-90972506) |
-| **Senior Information Management and GIS Associate – DTM** | International Organization for Migration | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-information-management-and-gis-associate-dtm-2c1a776a) |
 | **Groepshoofd cluster Plantaardige Genetische Bronnen (PGR) van de WOT-unit CGN** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/groepshoofd-cluster-plantaardige-genetische-bronnen-pgr-van-de-wot-unit-cgn-d3da81f1) |
 | **Senior Data Scientist — Risk Modeling** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-data-scientist-risk-modeling-f0fba430) |
 | **Account Executive Fleet & Fuel Specialist** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/account-executive-fleet-fuel-specialist-cf57564a) |
@@ -207,11 +212,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Functional/technical Manager Servicedesk IT** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/functional-technical-manager-servicedesk-it-fdae08c3) |
 | **Postdoc AI-Enabled Decision Support and Data Integration** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoc-ai-enabled-decision-support-and-data-integration-0a2b64d7) |
 | **Research Assistant – Genetic engineering of acetogens** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/research-assistant-genetic-engineering-of-acetogens-71eebe87) |
-| **Postdoctoral Researcher in Satellite-Based Monitoring of Shipping Emissions** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-in-satellite-based-monitoring-of-shipping-emissions-da379f78) |
-| **Postdoc in Robotic instruments for minimally invasive surgery** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoc-in-robotic-instruments-for-minimally-invasive-surgery-3ae66b81) |
-| **Postdoctoral Researcher in Health Technology Assessment: Informal Caregiver Impacts in HTA (I-CARE)** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-in-health-technology-assessment-informal-caregiver--8b12e3f4) |
-| **EngD position: AI for Underground Infrastructure Detection and Characterisation** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/engd-position-ai-for-underground-infrastructure-detection-and-characterisat-eba52783) |
-| **Postdoctoral Researcher Integrating In-Well DAS with seismological stations for offshore near-real-time monitoring** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-integrating-in-well-das-with-seismological-stations-d593d40e) |
 
 ### 📜 Free Tech Trainings & Certification Vouchers
 
