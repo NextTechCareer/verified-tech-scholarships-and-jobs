@@ -75,7 +75,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
 | **Consultant Geoinformationssysteme (GIS) (m/w/x)** | VertiGIS GmbH | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/vertigis-gmbh-consultant-geoinformationssysteme-gis-m-w-x) |
-| **Enseignant·e en Géomatique** | Collège Ahuntsic | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/coll-ge-ahuntsic-enseignant-e-en-g-omatique) |
 | **Manager of GIS** | City of Spruce Grove | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/city-of-spruce-grove-manager-of-gis) |
 | **Sr. C++ Software Development Engineer** | ArcGIS Pro 3D Analysis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/esri-sr-c-software-development-engineer-arcgis-pro-3d-analysis) |
 | **DevOps Engineer I** | ArcGIS Enterprise | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/esri-devops-engineer-i-arcgis-enterprise) |
@@ -83,7 +82,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Doktoranden / Postdoktoranden in Geospatial Big Data and Artificial Intelligence** | Technische Universität München (TUM) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/technische-universit-t-m-nchen-tum-doktoranden-postdoktoranden-in-geospatial-big-data-and-artificial) |
 | **Senior Analog/Mixed-Signal IC Design Specialist** | ETH Zürich | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/eth-zurich-senior-analog-mixed-signal-ic-design-specialist) |
 | **Wissenschaftliche:r Mitarbeiter:in Ingenieurgeodäsie (3D-Erfassung & LiDAR)** | ETH Zürich | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/eth-z-rich-wissenschaftliche-r-mitarbeiter-in-ingenieurgeod-sie-3d-erfassung) |
-| **Data Engineer** | UNOPS | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/unops-data-engineer) |
 | **Data Compliance & Governance Lead; Data Protection Officer (Global)** | Linxon | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linxon-data-compliance-governance-lead-data-protection-officer-global-2) |
 | **Data Compliance & Governance Lead; Data Protection Officer (Global)** | Linxon | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linxon-data-compliance-governance-lead-data-protection-officer-global) |
 | **Senior Ecology Consultant** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-ecology-consultant) |
@@ -185,7 +183,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Postdoctoral Researcher Position in Data-Driven Design Evaluation of Urban Transformations** | Delft University of Technology | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-position-in-data-driven-design-evaluation-of-urban--a07247c5) |
 | **Postdoc in Urban Climate Morphology** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoc-in-urban-climate-morphology-704a2529) |
 | **Researcher in Soil Science, Fertilization and Farming Systems** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/researcher-in-soil-science-fertilization-and-farming-systems-d2bfaec5) |
-| **Functional/technical Manager Servicedesk IT** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/functional-technical-manager-servicedesk-it-fdae08c3) |
 | **Postdoc AI-Enabled Decision Support and Data Integration** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoc-ai-enabled-decision-support-and-data-integration-0a2b64d7) |
 | **Research Assistant – Genetic engineering of acetogens** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/research-assistant-genetic-engineering-of-acetogens-71eebe87) |
 | **Postdoctoral Researcher in Satellite-Based Monitoring of Shipping Emissions** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-in-satellite-based-monitoring-of-shipping-emissions-da379f78) |
@@ -194,7 +191,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Legal Advisor** | European Research Executive Agency (REA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/legal-advisor-84a00202) |
 | **Project Officer Critical Infrastructure Protection and Energy Security (CIPES)** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-critical-infrastructure-protection-and-energy-security-cipe-4b181065) |
 | **Senior AI and Digital Services Officer** | European Labour Authority | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-ai-and-digital-services-officer-5ba12fcb) |
-| **Administrative Agent to the Head of Unit** | European Commission | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/administrative-agent-to-the-head-of-unit-9aa67a18) |
 | **Project Officer Land Capabilities** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-land-capabilities-3452c4e1) |
 | **Project Officer Experimentation** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-experimentation-5d70ed5f) |
 | **Policy Coordinator** | Policy Officer | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/policy-coordinator-policy-officer-95ee646c) |
@@ -204,6 +200,7 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **HRM Assistant** | HR Analytics and Reporting | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/hrm-assistant-hr-analytics-and-reporting-84433a66) |
 | **Project Officer Transition** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-transition-3b7c284a) |
 | **Imagery Analyst** | European Union Satellite Centre (SatCen) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/imagery-analyst-fc4237c9) |
+| **Materials Engineer** | Polymers and Composite (TE-MSC-SMT-2026-172-GRAP) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/materials-engineer-polymers-and-composite-te-msc-smt-2026-172-grap-6f4050eb) |
 
 ### 📜 Free Tech Trainings & Certification Vouchers
 
@@ -236,6 +233,9 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **REPLAY European Master Program in Game Design** | REPLAY European Master Program | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/replay-european-master-program-in-game-design-5e9f6e39) |
 | **Erasmus Mundus Joint Master Degree on Physiology and Medicine of Humans in Space and Extreme Environments** | SPACEMED Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-on-physiology-and-medicine-of-humans-in--4610c0d9) |
 | **HySET Master's Degree in Hydrogen Systems and Enabling Technologies** | HySET Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/hyset-masters-degree-in-hydrogen-systems-and-enabling-technologies-487e21cf) |
+| **i-MESC Erasmus Mundus Joint Master** | i-MESC Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/i-mesc-erasmus-mundus-joint-master-1d459794) |
+| **Erasmus Mundus Joint Master Advanced Methods in Particle Physics** | International Master on Advanced methods in Particle Physics (IMAPP) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-advanced-methods-in-particle-physics-dff7c956) |
+| **Erasmus Mundus Master in Biomedical Engineering (EMMBIOME)** | Erasmus Mundus Master in Biomedical Engineering | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-master-in-biomedical-engineering-emmbiome-49342f74) |
 
 ### 🌟 Other Featured Opportunities
 
