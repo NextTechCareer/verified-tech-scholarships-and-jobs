@@ -28,6 +28,7 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Asia House Fellowship 2027/2028** | Asia House | Fellowship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asia-house-fellowship-2027-2028) |
 | **ITC Excellence Scholarship Programme** | University of Twente | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/university-of-twente-itc-excellence-scholarship-programme) |
 | **Post-Doctoral Fellow – Big Data Mining** | University of Sharjah | Fellowship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/university-of-sharjah-post-doctoral-fellow-big-data-mining) |
 | **Global UGRAD Program Academic Exchange** | Global UGRAD Program | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/global-ugrad-program-academic-exchange) |
@@ -59,8 +60,28 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **ICT Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-ict-engineer-2) |
+| **ICT Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-ict-engineer) |
+| **Technical Specialist Associate** | H.B. Fuller | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/h-b-fuller-technical-specialist-associate) |
+| **Hybrid Cloud Infrastructure Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-hybrid-cloud-infrastructure-engineer-2) |
+| **Hybrid Cloud Infrastructure Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-hybrid-cloud-infrastructure-engineer) |
+| **Database Developer** | Cigna Healthcare | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/cigna-healthcare-database-developer) |
+| **Senior Data Engineer** | Supply Chain | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/h-b-fuller-senior-data-engineer-supply-chain) |
+| **GIS and Operational Systems Specialist II** | City of Gainesville | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/city-of-gainesville-gis-and-operational-systems-specialist-ii) |
+| **E T Consultant (IT Policy & Compliance)** | World Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-e-t-consultant-it-policy-compliance) |
+| **E T Consultant (Lead Solution Architect – OutSystems Platform)** | World Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-e-t-consultant-lead-solution-architect-outsystems-platform) |
+| **INFORMATION SYSTEMS ASSISTANT, FS5** | United Nations Support Mission in Libya | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-support-mission-in-l-information-systems-assistant-fs5) |
+| **GIS Senior Officer** | Image Analyst | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/unops-gis-senior-officer-image-analyst) |
+| **Intern** | Data Science, Information Integrity Unit | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-intern-data-science-information-integrity-unit) |
+| **Associate Professional** | Geospatial Analyst | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-renewable-energy-agen-associate-professional-geospatial-analyst) |
+| **INFORMATION SYSTEMS ASSISTANT, FS5** | United Nations Assistance Mission in Afghanistan | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-assistance-mission-i-information-systems-assistant-fs5) |
+| **National Consultant: Senior Software Engineer** | UNESCO | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/unesco-national-consultant-senior-software-engineer) |
+| **ICT Analyst** | Cloud Services | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-development-programm-ict-analyst-cloud-services) |
+| **Database administrator** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-database-administrator-2) |
+| **Senior Urban Drainage Modeller** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-urban-drainage-modeller) |
 | **Database administrator** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-database-administrator) |
 | **Senior Linux Infrastructure Operations Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-linux-infrastructure-operations-engineer) |
+| **System Integration Analyst (7+ years Azure Logic Apps/ Oracle EBS/Fusion)** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-system-integration-analyst-7-years-azure-logic-apps-oracle-ebs-fu-2) |
 | **System Integration Analyst (7+ years Azure Logic Apps/ Oracle EBS/Fusion)** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-system-integration-analyst-7-years-azure-logic-apps-oracle-ebs-fu) |
 | **BIM Technical Manager / Senior Technical Manager (Middle East** | Highways & Roads) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-bim-technical-manager-senior-technical-manager-middle-east-highwa-2) |
 | **Climate Adaptation Specialist** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-climate-adaptation-specialist) |
@@ -192,27 +213,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Staff Software Engineer** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/staff-software-engineer-2a258b69) |
 | **Tech Lead — Users & Auth** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tech-lead-users-auth-dfcf6af5) |
 | **Customer Happiness Associate** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/customer-happiness-associate-5b17f7d2) |
-| **Product Designer, Design Systems** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/product-designer-design-systems-9167ecac) |
-| **Senior Auth Engineer — Users & Auth** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-auth-engineer-users-auth-490eb639) |
-| **Tech Lead — Users & Auth** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tech-lead-users-auth-4b7d377f) |
-| **Customer Happiness Associate** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/customer-happiness-associate-f2976472) |
-| **Head of Brand & Design** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/head-of-brand-design-42f65311) |
-| **AI-Native Engineer, New Grad** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ai-native-engineer-new-grad-73bd1a81) |
-| **Software Engineer in Test (SDET)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/software-engineer-in-test-sdet-5ae95dbb) |
-| **Engineering Director** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/engineering-director-64051c9d) |
-| **Junior Invoicing and Operations Analyst** | AI Support | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/junior-invoicing-and-operations-analyst-ai-support-c347950b) |
-| **QA Automation Lead** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/qa-automation-lead-cf5c44e9) |
-| **Customer Success Manager** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/customer-success-manager-0ad2178a) |
-| **Tech Lead — Users & Auth** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tech-lead-users-auth-9607dbba) |
-| **Staff Data Engineer** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/staff-data-engineer-975148aa) |
-| **Data Analyst** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/data-analyst-345adcff) |
-| **FPGA Verification** | Thales | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/fpga-verification-eaeecea5) |
-| **Postdoctoral Researcher Position in Data-Driven Design Evaluation of Urban Transformations** | Delft University of Technology | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-position-in-data-driven-design-evaluation-of-urban--a07247c5) |
-| **Postdoc in Urban Climate Morphology** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoc-in-urban-climate-morphology-704a2529) |
-| **Researcher in Soil Science, Fertilization and Farming Systems** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/researcher-in-soil-science-fertilization-and-farming-systems-d2bfaec5) |
-| **Postdoc AI-Enabled Decision Support and Data Integration** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoc-ai-enabled-decision-support-and-data-integration-0a2b64d7) |
-| **Research Assistant – Genetic engineering of acetogens** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/research-assistant-genetic-engineering-of-acetogens-71eebe87) |
-| **Postdoctoral Researcher in Satellite-Based Monitoring of Shipping Emissions** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-in-satellite-based-monitoring-of-shipping-emissions-da379f78) |
 
 ### 📜 Free Tech Trainings & Certification Vouchers
 
