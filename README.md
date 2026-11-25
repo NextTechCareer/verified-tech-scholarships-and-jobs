@@ -28,6 +28,7 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **ITC Excellence Scholarship Programme** | University of Twente | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/university-of-twente-itc-excellence-scholarship-programme) |
 | **Post-Doctoral Fellow – Big Data Mining** | University of Sharjah | Fellowship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/university-of-sharjah-post-doctoral-fellow-big-data-mining) |
 | **Global UGRAD Program Academic Exchange** | Global UGRAD Program | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/global-ugrad-program-academic-exchange) |
 | **Chinese Government Scholarship Program 2027-28** | Higher Education Commission (HEC) / Chinese Scholarship Council | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/chinese-government-scholarship-program-2027-28-27aae640) |
@@ -53,27 +54,54 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **SECCLO Erasmus Mundus Joint Master Degree** | SECCLO | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/secclo-erasmus-mundus-joint-master-degree-f3499e3e) |
 | **Erasmus Mundus Joint Master Degree and scholarships** | European Master in Sustainable Systems Engineering (EMSSE) | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-and-scholarships-9fff845a) |
 | **Erasmus Mundus Joint Master’s in AI, Sustainability and Participatory Design** | Erasmus Mundus | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-masters-in-ai-sustainability-and-participatory-design-2eb3722e) |
-| **European Master in Migration and Intercultural Relations (EMMIR) Edition 14** | EMMIR Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-in-migration-and-intercultural-relations-emmir-edition-14-b0c12f93) |
-| **Flood Risk Master Programme** | IHE Delft, TU Dresden, UPC Barcelona, University of Ljubljana | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/flood-risk-master-programme-f9bf4470) |
-| **Children's Literature, Media & Cultural Entrepreneurship (Erasmus Mundus International Master)** | Erasmus Mundus | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/childrens-literature-media-cultural-entrepreneurship-erasmus-mundus-interna-2b5b1f5b) |
-| **Joint Master of Arts in European Film Heritage, History and Cultures** | FilmMemory | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/joint-master-of-arts-in-european-film-heritage-history-and-cultures-c1040633) |
-| **Erasmus Mundus Joint Master in Global Change Ecology and Biodiversity Management** | Erasmus Mundus Joint Master (GLOBE Consortium) | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-in-global-change-ecology-and-biodiversity-manag-b5c6bc85) |
-| **Masters in Environmental Sciences, Policy and Management (MESPOM)** | Central European University | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/masters-in-environmental-sciences-policy-and-management-mespom-242ce413) |
-| **International Joint Master Programme in Groundwater and Global Change** | GroundwatCh Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-joint-master-programme-in-groundwater-and-global-change-dbd7d34e) |
-| **Erasmus Mundus Joint Master Degree (EMJMD) in Photonics** | Europhotonics Consortium | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-emjmd-in-photonics-f445ff33) |
-| **Erasmus Mundus Joint Masters programme in Sustainable Forest and Nature Management (SUFONAMA)** | University of Copenhagen | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-masters-programme-in-sustainable-forest-and-nature-man-3cf78d7c) |
-| **Master of Science in Geospatial Technologies** | Erasmus Mundus | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/master-of-science-in-geospatial-technologies-d075179a) |
-| **Erasmus Mundus Joint Master in Imaging** | Erasmus Mundus Joint Master in Imaging | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-in-imaging-24765902) |
-| **Erasmus Mundus Joint Master in Artificial Intelligence for Image Processing and Computer Vision** | Erasmus Mundus Joint Master in IPCVAI | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-in-artificial-intelligence-for-image-processing-3b9dac14) |
-| **MaMaSELF+ Master in Materials Science** | Université de Rennes | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/mamaself-master-in-materials-science-674524ec) |
-| **Erasmus Mundus Joint Master – Redesigning the Post-Industrial City (MSc RePIC)** | UNIC | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-redesigning-the-post-industrial-city-msc-repic-e9004139) |
-| **EMerald Master's in Georesources Engineering** | EMerald Erasmus Mundus Joint Master | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/emerald-masters-in-georesources-engineering-968d03d9) |
-| **Erasmus Mundus Master Degree in Plant Health in Sustainable Cropping Systems** | Erasmus Mundus | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-master-degree-in-plant-health-in-sustainable-cropping-system-17cb2596) |
 
 ### 💼 Software Engineering & Tech Jobs
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **Database administrator** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-database-administrator) |
+| **Senior Linux Infrastructure Operations Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-linux-infrastructure-operations-engineer) |
+| **System Integration Analyst (7+ years Azure Logic Apps/ Oracle EBS/Fusion)** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-system-integration-analyst-7-years-azure-logic-apps-oracle-ebs-fu) |
+| **BIM Technical Manager / Senior Technical Manager (Middle East** | Highways & Roads) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-bim-technical-manager-senior-technical-manager-middle-east-highwa-2) |
+| **Climate Adaptation Specialist** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-climate-adaptation-specialist) |
+| **Climate Resilience Outcomes Specialist** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-climate-resilience-outcomes-specialist) |
+| **Transport Leadership and Technology Specialist** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-transport-leadership-and-technology-specialist) |
+| **Technology Innovation Challenge Project Coordinator** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-technology-innovation-challenge-project-coordinator) |
+| **Administrative Data Management and Integrated Database Systems Specialist** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-administrative-data-management-and-integrated-database-systems-sp) |
+| **Principal Technology Specialist (ADB-Korea Climate Technology Hub)** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-principal-technology-specialist-adb-korea-climate-technology-hub) |
+| **Digital Health AI and Analytics Expert** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-digital-health-ai-and-analytics-expert) |
+| **Intl. Climate Change Expert** | Supporting Emerging Areas and Renewable Energy Integration | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-intl-climate-change-expert-supporting-emerging-areas-and-renewabl) |
+| **Director AI/ML Engineering** | Optum | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/optum-director-ai-ml-engineering) |
+| **Application Security Lead** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-application-security-lead-2) |
+| **Senior Ecology Consultant** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-ecology-consultant-2) |
+| **AVEVA Intelligent P&ID Designer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-aveva-intelligent-p-id-designer) |
+| **OHL Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-ohl-engineer) |
+| **Consultancy on Development of a Regional Framework for Post-Quantum Cryptography in the Arab Region** | Economic and Social Commission for Western Asia (ESCWA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/economic-and-social-commission-for--consultancy-on-development-of-a-regional-framework-for-post-quant) |
+| **INFORMATION MANAGEMENT OFFICER, P3** | United Nations Office of the High Commissioner for Human Rights | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-office-of-the-high-c-information-management-officer-p3) |
+| **CONSULTANCY: Website Developer** | SSA-2026-IPCC -1 | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/intergovernmental-panel-on-climate--consultancy-website-developer-ssa-2026-ipcc-1) |
+| **Information Technology (IT) Manager, P3** | International Seabed Authority | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-seabed-authority-information-technology-it-manager-p3) |
+| **Consultant** | Digital and AI Safety for Women Entrepreneurs | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/economic-and-social-commission-for--consultant-digital-and-ai-safety-for-women-entrepreneurs) |
+| **Data Analysis Assistant, G6** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-data-analysis-assistant-g6) |
+| **TELECOMMUNICATIONS OFFICER, P4** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-telecommunications-officer-p4) |
+| **Nuclear Engineer (PRIS)(P4)** | International Atomic Energy Agency (IAEA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-atomic-energy-agency--nuclear-engineer-pris-p4) |
+| **Consultant: Assessment of Selected Digital Services in the Ministry of Labour in Oman** | United Nations Economic and Social Commission for Western Asia (ESCWA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-economic-and-social--consultant-assessment-of-selected-digital-services-in-the-ministr) |
+| **Technical Account Manager (TAM) Mail Products and Services, SP7** | Universal Postal Union | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/universal-postal-union-technical-account-manager-tam-mail-products-and-services-sp7) |
+| **Manager, Data, Information & AI Governance** | World Bank Group | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-group-manager-data-information-ai-governance) |
+| **TELECOMMUNICATIONS TECHNICIAN, FS5** | United Nations Truce Supervision Organisation | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-truce-supervision-or-telecommunications-technician-fs5) |
+| **Trade ETL Engineer** | United Nations Economic and Social Commission for Western Asia | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-economic-and-social--trade-etl-engineer) |
+| **Mobile Engineer Specialist** | Android | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-food-programme-mobile-engineer-specialist-android) |
+| **Senior Fund Raising Associate (Database), (G-7)** | UNICEF | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/unicef-senior-fund-raising-associate-database-g-7) |
+| **Software Application Developer** | United Nations Environment Programme | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-environment-programm-software-application-developer) |
+| **E T Temporary (Junior Service Delivery Analyst)** | World Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-e-t-temporary-junior-service-delivery-analyst) |
+| **Associate Environment Officer, Market-Based Measures, P2** | International Civil Aviation Organization | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-civil-aviation-organi-associate-environment-officer-market-based-measures-p2) |
+| **ET Temporary** | IT Support | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-group-et-temporary-it-support) |
+| **Chief, Data, Digital & Innovation, P5** | United Nations Development Coordination Office | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-development-coordina-chief-data-digital-innovation-p5) |
+| **Data Specialist, P3** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-data-specialist-p3) |
+| **E T Consultant (Associate Solutions Engineer)** | World Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-e-t-consultant-associate-solutions-engineer) |
+| **Data Specialist, Data Analysis, P3** | United Nations Department of Safety and Security | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-department-of-safety-data-specialist-data-analysis-p3) |
+| **Internship** | Database Management for Radiation-polymer Interaction | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/iaea-internship-database-management-for-radiation-polymer-interaction) |
+| **DATA SPECIALIST, NOC** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-data-specialist-noc) |
+| **E T Consultant** | World Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-e-t-consultant) |
 | **Consultant Geoinformationssysteme (GIS) (m/w/x)** | VertiGIS GmbH | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/vertigis-gmbh-consultant-geoinformationssysteme-gis-m-w-x) |
 | **Manager of GIS** | City of Spruce Grove | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/city-of-spruce-grove-manager-of-gis) |
 | **Sr. C++ Software Development Engineer** | ArcGIS Pro 3D Analysis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/esri-sr-c-software-development-engineer-arcgis-pro-3d-analysis) |
@@ -139,7 +167,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Machine Learning Engineer (TE-DPS-AIM-2026-223-LD)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/machine-learning-engineer-te-dps-aim-2026-223-ld-ae35fb46) |
 | **AI Content Specialist** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ai-content-specialist-44a02451) |
 | **GEO Expert** | Hybrid | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/geo-expert-hybrid-9d1499d8) |
-| **INFORMATION SYSTEMS OFFICER, P3** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-systems-officer-p3-2034a2c0) |
 | **Information Systems Officer, P3** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-systems-officer-p3-32533468) |
 | **Groepshoofd cluster Plantaardige Genetische Bronnen (PGR) van de WOT-unit CGN** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/groepshoofd-cluster-plantaardige-genetische-bronnen-pgr-van-de-wot-unit-cgn-d3da81f1) |
 | **Senior Data Scientist — Risk Modeling** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-data-scientist-risk-modeling-f0fba430) |
@@ -186,21 +213,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Postdoc AI-Enabled Decision Support and Data Integration** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoc-ai-enabled-decision-support-and-data-integration-0a2b64d7) |
 | **Research Assistant – Genetic engineering of acetogens** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/research-assistant-genetic-engineering-of-acetogens-71eebe87) |
 | **Postdoctoral Researcher in Satellite-Based Monitoring of Shipping Emissions** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoctoral-researcher-in-satellite-based-monitoring-of-shipping-emissions-da379f78) |
-| **Postdoc in Robotic instruments for minimally invasive surgery** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/postdoc-in-robotic-instruments-for-minimally-invasive-surgery-3ae66b81) |
-| **EngD position: AI for Underground Infrastructure Detection and Characterisation** | University of Twente | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/engd-position-ai-for-underground-infrastructure-detection-and-characterisat-eba52783) |
-| **Legal Advisor** | European Research Executive Agency (REA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/legal-advisor-84a00202) |
-| **Project Officer Critical Infrastructure Protection and Energy Security (CIPES)** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-critical-infrastructure-protection-and-energy-security-cipe-4b181065) |
-| **Senior AI and Digital Services Officer** | European Labour Authority | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-ai-and-digital-services-officer-5ba12fcb) |
-| **Project Officer Land Capabilities** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-land-capabilities-3452c4e1) |
-| **Project Officer Experimentation** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-experimentation-5d70ed5f) |
-| **Policy Coordinator** | Policy Officer | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/policy-coordinator-policy-officer-95ee646c) |
-| **Administrative Agent** | Job No 245682 | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/administrative-agent-job-no-245682-eeas-pol-1-42e99290) |
-| **Senior Communication Officer** | European Labour Authority | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-communication-officer-c4599c4c) |
-| **Legal Expert** | Single Resolution Board | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/legal-expert-48dcafd9) |
-| **HRM Assistant** | HR Analytics and Reporting | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/hrm-assistant-hr-analytics-and-reporting-84433a66) |
-| **Project Officer Transition** | European Defence Agency | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/project-officer-transition-3b7c284a) |
-| **Imagery Analyst** | European Union Satellite Centre (SatCen) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/imagery-analyst-fc4237c9) |
-| **Materials Engineer** | Polymers and Composite (TE-MSC-SMT-2026-172-GRAP) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/materials-engineer-polymers-and-composite-te-msc-smt-2026-172-grap-6f4050eb) |
 
 ### 📜 Free Tech Trainings & Certification Vouchers
 
@@ -223,24 +235,12 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Master of Science in Mechanics of Sustainable Materials and Structures** | TU Dortmund University, University of Trento, and Ecole Centrale de Nantes | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/master-of-science-in-mechanics-of-sustainable-materials-and-structures-3c8473cc) |
 | **European Master in Linguistic Data Science** | European Master in Linguistic Data Science (EMLDS) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-in-linguistic-data-science-48a2f6b4) |
 | **Harnessing Space Technology for Africa's Sustainable Development Training** | African Space Agency | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/harnessing-space-technology-for-africas-sustainable-development-training-5e505cf9) |
-| **International Master in Technology and Management for Circular Economy (IMATEC)** | IMATEC Erasmus Mundus Joint Masters | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-master-in-technology-and-management-for-circular-economy-imat-05cec866) |
-| **Joint Master’s Programme in Transnational German Studies** | University of Porto | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/joint-masters-programme-in-transnational-german-studies-4aa3edca) |
-| **International Master in Advanced Design of Sustainable Ships and Offshore Structures** | EMship Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-master-in-advanced-design-of-sustainable-ships-and-offshore-s-991c962a) |
-| **Master of Science in Communications Engineering and Data Science (CoDaS)** | Aalto University, TU Braunschweig, Grenoble INP-UGA, UPC Barcelona, Tecnico Lisboa | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/master-of-science-in-communications-engineering-and-data-science-codas-89a53639) |
-| **Euro-Asian Master in Medical Technology and Healthcare Business (EMMaH)** | Euro-Asian Master in Medical Technology and Healthcare Business | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/euro-asian-master-in-medical-technology-and-healthcare-business-emmah-68fd5301) |
-| **Global-MINDS European Master’s Program in the Psychology of Global Mobility, Inclusion and Diversity in Society** | Global-MINDS | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/global-minds-european-masters-program-in-the-psychology-of-global-mobility--56af5bf6) |
-| **European Master in Lexicography (EMLex)** | European Master in Lexicography (EMLex) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-in-lexicography-emlex-f2472b3b) |
-| **REPLAY European Master Program in Game Design** | REPLAY European Master Program | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/replay-european-master-program-in-game-design-5e9f6e39) |
-| **Erasmus Mundus Joint Master Degree on Physiology and Medicine of Humans in Space and Extreme Environments** | SPACEMED Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-degree-on-physiology-and-medicine-of-humans-in--4610c0d9) |
-| **HySET Master's Degree in Hydrogen Systems and Enabling Technologies** | HySET Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/hyset-masters-degree-in-hydrogen-systems-and-enabling-technologies-487e21cf) |
-| **i-MESC Erasmus Mundus Joint Master** | i-MESC Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/i-mesc-erasmus-mundus-joint-master-1d459794) |
-| **Erasmus Mundus Joint Master Advanced Methods in Particle Physics** | International Master on Advanced methods in Particle Physics (IMAPP) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-advanced-methods-in-particle-physics-dff7c956) |
-| **Erasmus Mundus Master in Biomedical Engineering (EMMBIOME)** | Erasmus Mundus Master in Biomedical Engineering | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-master-in-biomedical-engineering-emmbiome-49342f74) |
 
 ### 🌟 Other Featured Opportunities
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **EarthMENA 2027 Conference** | IEREK | Conference | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ierek-earthmena-2027-conference) |
 | **18th Joint Urban Remote Sensing Event – JURSE 2027** | Joint Urban Remote Sensing Event (JURSE) | Conference | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/18th-joint-urban-remote-sensing-event-jurse-2027) |
 | **6th International Land Management Conference** | Land – International Network for Knowledge (LINK) | Conference | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/6th-international-land-management-conference-ff31e67a) |
 
