@@ -28,12 +28,13 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **PhD: Worldwide Forest Carbon Uptake Under Climate Change and Disturbance** | Wageningen University & Research | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/wageningen-university-research-phd-worldwide-forest-carbon-uptake-under-climate-change-and-distu) |
+| **ANSO-CAS-TWAS/UNESCO PhD Scholarship** | Chinese Academy of Sciences | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/chinese-academy-of-sciences-anso-cas-twas-unesco-phd-scholarship) |
+| **AWF Geospatial Leaders Fellowship 2027 Cohort** | African Wildlife Foundation | Fellowship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/african-wildlife-foundation-awf-geospatial-leaders-fellowship-2027-cohort) |
 | **Asia House Fellowship 2027/2028** | Asia House | Fellowship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asia-house-fellowship-2027-2028) |
 | **ITC Excellence Scholarship Programme** | University of Twente | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/university-of-twente-itc-excellence-scholarship-programme) |
-| **Post-Doctoral Fellow – Big Data Mining** | University of Sharjah | Fellowship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/university-of-sharjah-post-doctoral-fellow-big-data-mining) |
 | **Global UGRAD Program Academic Exchange** | Global UGRAD Program | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/global-ugrad-program-academic-exchange) |
 | **Chinese Government Scholarship Program 2027-28** | Higher Education Commission (HEC) / Chinese Scholarship Council | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/chinese-government-scholarship-program-2027-28-27aae640) |
-| **KAUST Global Postdoctoral Fellowship** | King Abdullah University of Science and Technology (KAUST) | Fellowship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/kaust-global-postdoctoral-fellowship-759c7855) |
 | **M3EP: Erasmus Mundus Joint Master’s in European Environmental Economics and Policy** | 4EU+ Alliance | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/m3ep-erasmus-mundus-joint-masters-in-european-environmental-economics-and-p-6e3c5784) |
 | **GEM: Erasmus+ MSc in Geo-Information Science and Earth Observation for Environmental Modelling and Management** | GEM Consortium (University of Twente, Lund University, UC Louvain, University of Tartu) | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/gem-erasmus-msc-in-geo-information-science-and-earth-observation-for-enviro-3bfec5f4) |
 | **Erasmus Mundus Joint Master in International Vaccinology** | Leading International Vaccinology Education (LIVE) | Scholarship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/erasmus-mundus-joint-master-in-international-vaccinology-c562ff4d) |
@@ -60,8 +61,68 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **PhD Position Improving Symbolic AI through Learning and Reasoning** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-phd-position-improving-symbolic-ai-through-learning-and-reasoning) |
+| **PhD Positions in Tactile Flight** | Autonomous Drone Navigation Through Touch | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-phd-positions-in-tactile-flight-autonomous-drone-navigation-throu) |
+| **Postdoc Hydrogen Induced Degradation and Continued Airworthiness for Hydrogen Powered Aircraft** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-postdoc-hydrogen-induced-degradation-and-continued-airworthiness) |
+| **PhD Position: Projection System for TE Imaging in Scanning Electron Microscope (SEM)** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-phd-position-projection-system-for-te-imaging-in-scanning-electro) |
+| **Postdoc Machine Learning for Analysis of Multimodal Catalysis Data** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-postdoc-machine-learning-for-analysis-of-multimodal-catalysis-dat) |
+| **PhD position Participatory Data Governance for a Just Energy Transition** | Delft University of Technology (TU Delft) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/delft-university-of-technology-tu-d-phd-position-participatory-data-governance-for-a-just-energy-tran) |
 | **ICT Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-ict-engineer-2) |
 | **ICT Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-ict-engineer) |
+| **SCM Engineer** | IT procurement | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linxon-scm-engineer-it-procurement) |
+| **Database administrator** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-database-administrator-2) |
+| **Database administrator** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-database-administrator) |
+| **Senior Linux Infrastructure Operations Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-linux-infrastructure-operations-engineer) |
+| **Senior Urban Drainage Modeller** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-urban-drainage-modeller) |
+| **Application Security Lead** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-application-security-lead) |
+| **Data Compliance & Governance Lead; Data Protection Officer (Global)** | Linxon | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linxon-data-compliance-governance-lead-data-protection-officer-global-2) |
+| **Data Compliance & Governance Lead; Data Protection Officer (Global)** | Linxon | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linxon-data-compliance-governance-lead-data-protection-officer-global) |
+| **PhD Position Operations Management** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-phd-position-operations-management) |
+| **PhD Position Numerical Analysis** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-phd-position-numerical-analysis) |
+| **Projectmanager Urban Energy Institute** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-projectmanager-urban-energy-institute) |
+| **Senior Software Engineer** | Device-Aware Memory Test (POPCORN) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-senior-software-engineer-device-aware-memory-test-popcorn) |
+| **PhD Positions on Silicon-Carbide Quantum Networks** | TU Delft / QuTech | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-qutech-phd-positions-on-silicon-carbide-quantum-networks) |
+| **Education Development Officer City As a Laboratory Project** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-education-development-officer-city-as-a-laboratory-project) |
+| **PhD Position on Drone-to-Drone Interaction** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-phd-position-on-drone-to-drone-interaction) |
+| **PhD Position in Computational Design and Fabrication of Adaptive 3D-Printed Structures** | TU Delft | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/tu-delft-phd-position-in-computational-design-and-fabrication-of-adaptive) |
+| **Postdoc in hyperspectral satellite sensor harmonisation in space and time** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/wageningen-university-research-postdoc-in-hyperspectral-satellite-sensor-harmonisation-in-space) |
+| **Backup & restore Engineer** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/wageningen-university-research-backup-restore-engineer-2) |
+| **AI Platform Engineer** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/wageningen-university-research-ai-platform-engineer) |
+| **Postdoc AI-Driven Allergen Early Warning Systems for Novel Foods** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/wageningen-university-research-postdoc-ai-driven-allergen-early-warning-systems-for-novel-foods) |
+| **Backup & Restore Engineer** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/wageningen-university-research-backup-restore-engineer) |
+| **AI Platform Engineer** | Wageningen University & Research (WUR) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/wageningen-university-research-wur-ai-platform-engineer) |
+| **People Partner (HRBP) — Colombia** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-people-partner-hrbp-colombia) |
+| **Strategic Finance Expert** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-strategic-finance-expert-2) |
+| **Product Lead, TravelPay** | LATAM | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-product-lead-travelpay-latam) |
+| **Fraud Strategist Expert** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-fraud-strategist-expert-2) |
+| **Credit Analysis Lead** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-credit-analysis-lead) |
+| **Product Lead, Cards Benefits (Global, Black Card) — LATAM** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-product-lead-cards-benefits-global-black-card-latam) |
+| **Customer Happiness Associate** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-customer-happiness-associate) |
+| **Product Lead, Verticals (Core Cards & Stablecoins) — LATAM** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-product-lead-verticals-core-cards-stablecoins-latam) |
+| **People Partner (HRBP)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-people-partner-hrbp) |
+| **Product Lead, BillPay Mexico (SPEI)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-product-lead-billpay-mexico-spei) |
+| **Key Account Manager RJ Region (Gerente de Contas Estratégicas Regional RJ)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-key-account-manager-rj-region-gerente-de-contas-estrat-gicas-regi) |
+| **Accountant (Contador/a)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-accountant-contador-a) |
+| **Head of Sales** | Mexico City | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-head-of-sales-mexico-city) |
+| **Partnerships Expert (VARs & Accountants)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-partnerships-expert-vars-accountants) |
+| **Sales Enablement Specialist (Especialista em Capacitação de Vendas)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-sales-enablement-specialist-especialista-em-capacita-o-de-vendas) |
+| **Collections Analyst** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-collections-analyst) |
+| **Credit Risk Expert** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-credit-risk-expert-2) |
+| **Growth Designer (AI Focused)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-growth-designer-ai-focused) |
+| **Product Director, Clara Conta** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/product-director-clara-conta) |
+| **Key Account Manager** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-key-account-manager) |
+| **Partnerships Expert (Financing)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-partnerships-expert-financing) |
+| **Paid Media Specialist** | Argentina (Hybrid) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-paid-media-specialist-argentina-hybrid) |
+| **Credit Risk Expert** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-credit-risk-expert) |
+| **Fraud Strategist Expert** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-fraud-strategist-expert) |
+| **Legal Engineer** | AI & Legal Automation | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-legal-engineer-ai-legal-automation) |
+| **Product Lead, Fleet** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-product-lead-fleet) |
+| **Paid Media Specialist** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-paid-media-specialist) |
+| **Fraud Strategist Expert** | São Paulo (Hybrid) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-fraud-strategist-expert-s-o-paulo-hybrid) |
+| **Strategic Finance Expert** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-strategic-finance-expert) |
+| **Product Lead, Clara Conta** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/product-lead-clara-conta) |
+| **Product Marketing Specialist** | Hybrid | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/clara-product-marketing-specialist-hybrid) |
+| **Assistant / Associate / Full Professor – Accounting/Finance/Economics** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/king-fahd-university-of-petroleum-m-assistant-associate-full-professor-accounting-finance-economics) |
 | **Technical Specialist Associate** | H.B. Fuller | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/h-b-fuller-technical-specialist-associate) |
 | **Hybrid Cloud Infrastructure Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-hybrid-cloud-infrastructure-engineer-2) |
 | **Hybrid Cloud Infrastructure Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-hybrid-cloud-infrastructure-engineer) |
@@ -77,27 +138,11 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **INFORMATION SYSTEMS ASSISTANT, FS5** | United Nations Assistance Mission in Afghanistan | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-assistance-mission-i-information-systems-assistant-fs5) |
 | **National Consultant: Senior Software Engineer** | UNESCO | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/unesco-national-consultant-senior-software-engineer) |
 | **ICT Analyst** | Cloud Services | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-development-programm-ict-analyst-cloud-services) |
-| **Database administrator** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-database-administrator-2) |
-| **Senior Urban Drainage Modeller** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-urban-drainage-modeller) |
-| **Database administrator** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-database-administrator) |
-| **Senior Linux Infrastructure Operations Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-linux-infrastructure-operations-engineer) |
 | **System Integration Analyst (7+ years Azure Logic Apps/ Oracle EBS/Fusion)** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-system-integration-analyst-7-years-azure-logic-apps-oracle-ebs-fu-2) |
 | **System Integration Analyst (7+ years Azure Logic Apps/ Oracle EBS/Fusion)** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-system-integration-analyst-7-years-azure-logic-apps-oracle-ebs-fu) |
-| **BIM Technical Manager / Senior Technical Manager (Middle East** | Highways & Roads) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-bim-technical-manager-senior-technical-manager-middle-east-highwa-2) |
-| **Climate Adaptation Specialist** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-climate-adaptation-specialist) |
-| **Climate Resilience Outcomes Specialist** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-climate-resilience-outcomes-specialist) |
-| **Transport Leadership and Technology Specialist** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-transport-leadership-and-technology-specialist) |
-| **Technology Innovation Challenge Project Coordinator** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-technology-innovation-challenge-project-coordinator) |
 | **Administrative Data Management and Integrated Database Systems Specialist** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-administrative-data-management-and-integrated-database-systems-sp) |
-| **Principal Technology Specialist (ADB-Korea Climate Technology Hub)** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-principal-technology-specialist-adb-korea-climate-technology-hub) |
-| **Digital Health AI and Analytics Expert** | Asian Development Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-digital-health-ai-and-analytics-expert) |
 | **Intl. Climate Change Expert** | Supporting Emerging Areas and Renewable Energy Integration | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/asian-development-bank-intl-climate-change-expert-supporting-emerging-areas-and-renewabl) |
 | **Director AI/ML Engineering** | Optum | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/optum-director-ai-ml-engineering) |
-| **Application Security Lead** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-application-security-lead-2) |
-| **Senior Ecology Consultant** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-ecology-consultant-2) |
-| **AVEVA Intelligent P&ID Designer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-aveva-intelligent-p-id-designer) |
-| **OHL Engineer** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-ohl-engineer) |
-| **Consultancy on Development of a Regional Framework for Post-Quantum Cryptography in the Arab Region** | Economic and Social Commission for Western Asia (ESCWA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/economic-and-social-commission-for--consultancy-on-development-of-a-regional-framework-for-post-quant) |
 | **INFORMATION MANAGEMENT OFFICER, P3** | United Nations Office of the High Commissioner for Human Rights | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-office-of-the-high-c-information-management-officer-p3) |
 | **CONSULTANCY: Website Developer** | SSA-2026-IPCC -1 | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/intergovernmental-panel-on-climate--consultancy-website-developer-ssa-2026-ipcc-1) |
 | **Information Technology (IT) Manager, P3** | International Seabed Authority | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-seabed-authority-information-technology-it-manager-p3) |
@@ -105,82 +150,39 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Data Analysis Assistant, G6** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-data-analysis-assistant-g6) |
 | **TELECOMMUNICATIONS OFFICER, P4** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-telecommunications-officer-p4) |
 | **Nuclear Engineer (PRIS)(P4)** | International Atomic Energy Agency (IAEA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-atomic-energy-agency--nuclear-engineer-pris-p4) |
-| **Consultant: Assessment of Selected Digital Services in the Ministry of Labour in Oman** | United Nations Economic and Social Commission for Western Asia (ESCWA) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-economic-and-social--consultant-assessment-of-selected-digital-services-in-the-ministr) |
 | **Technical Account Manager (TAM) Mail Products and Services, SP7** | Universal Postal Union | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/universal-postal-union-technical-account-manager-tam-mail-products-and-services-sp7) |
 | **Manager, Data, Information & AI Governance** | World Bank Group | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-group-manager-data-information-ai-governance) |
 | **TELECOMMUNICATIONS TECHNICIAN, FS5** | United Nations Truce Supervision Organisation | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-truce-supervision-or-telecommunications-technician-fs5) |
 | **Trade ETL Engineer** | United Nations Economic and Social Commission for Western Asia | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-economic-and-social--trade-etl-engineer) |
 | **Mobile Engineer Specialist** | Android | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-food-programme-mobile-engineer-specialist-android) |
-| **Senior Fund Raising Associate (Database), (G-7)** | UNICEF | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/unicef-senior-fund-raising-associate-database-g-7) |
 | **Software Application Developer** | United Nations Environment Programme | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-environment-programm-software-application-developer) |
-| **E T Temporary (Junior Service Delivery Analyst)** | World Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-e-t-temporary-junior-service-delivery-analyst) |
 | **Associate Environment Officer, Market-Based Measures, P2** | International Civil Aviation Organization | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/international-civil-aviation-organi-associate-environment-officer-market-based-measures-p2) |
 | **ET Temporary** | IT Support | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-group-et-temporary-it-support) |
 | **Chief, Data, Digital & Innovation, P5** | United Nations Development Coordination Office | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-development-coordina-chief-data-digital-innovation-p5) |
 | **Data Specialist, P3** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-data-specialist-p3) |
 | **E T Consultant (Associate Solutions Engineer)** | World Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-e-t-consultant-associate-solutions-engineer) |
 | **Data Specialist, Data Analysis, P3** | United Nations Department of Safety and Security | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-department-of-safety-data-specialist-data-analysis-p3) |
-| **Internship** | Database Management for Radiation-polymer Interaction | Internship | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/iaea-internship-database-management-for-radiation-polymer-interaction) |
 | **DATA SPECIALIST, NOC** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/united-nations-data-specialist-noc) |
 | **E T Consultant** | World Bank | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/world-bank-e-t-consultant) |
 | **Consultant Geoinformationssysteme (GIS) (m/w/x)** | VertiGIS GmbH | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/vertigis-gmbh-consultant-geoinformationssysteme-gis-m-w-x) |
 | **Manager of GIS** | City of Spruce Grove | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/city-of-spruce-grove-manager-of-gis) |
 | **Sr. C++ Software Development Engineer** | ArcGIS Pro 3D Analysis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/esri-sr-c-software-development-engineer-arcgis-pro-3d-analysis) |
 | **DevOps Engineer I** | ArcGIS Enterprise | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/esri-devops-engineer-i-arcgis-enterprise) |
-| **Assistant Professor** | Architectural Engineering | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/university-of-sharjah-assistant-professor-architectural-engineering) |
 | **Doktoranden / Postdoktoranden in Geospatial Big Data and Artificial Intelligence** | Technische Universität München (TUM) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/technische-universit-t-m-nchen-tum-doktoranden-postdoktoranden-in-geospatial-big-data-and-artificial) |
-| **Senior Analog/Mixed-Signal IC Design Specialist** | ETH Zürich | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/eth-zurich-senior-analog-mixed-signal-ic-design-specialist) |
 | **Wissenschaftliche:r Mitarbeiter:in Ingenieurgeodäsie (3D-Erfassung & LiDAR)** | ETH Zürich | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/eth-z-rich-wissenschaftliche-r-mitarbeiter-in-ingenieurgeod-sie-3d-erfassung) |
-| **Data Compliance & Governance Lead; Data Protection Officer (Global)** | Linxon | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linxon-data-compliance-governance-lead-data-protection-officer-global-2) |
-| **Data Compliance & Governance Lead; Data Protection Officer (Global)** | Linxon | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/linxon-data-compliance-governance-lead-data-protection-officer-global) |
-| **Senior Ecology Consultant** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-ecology-consultant) |
-| **Application Security Lead** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-application-security-lead) |
-| **Senior Design Manager** | Infrastructure and Land Development | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-design-manager-infrastructure-and-land-development) |
-| **Senior Project Manager** | AtkinsRéalis | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-project-manager) |
-| **Senior Project Manager** | Infrastructure & Urban Development | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/atkinsr-alis-senior-project-manager-infrastructure-urban-development) |
 | **Project Assistant (MIS and Database Coordination)** | UN-Habitat | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/un-habitat-project-assistant-mis-and-database-coordination) |
 | **Research Associate for NISAR** | The University of Texas at Dallas | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/the-university-of-texas-at-dallas-research-associate-for-nisar) |
-| **Senior Drainage Engineer** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-senior-drainage-engineer) |
-| **Land Surveyor (Roads)** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-land-surveyor-roads) |
-| **Senior GIS Specialist** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-senior-gis-specialist-2) |
-| **GIS Manager** | Saudi National | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-gis-manager-saudi-national) |
-| **Senior GIS Specialist** | Parsons | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/parsons-senior-gis-specialist) |
-| **Lecturer in Information and Computer Science** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-in-information-and-computer-science-212dc1e7) |
-| **Assistant / Associate / Full Professor** | Control & Instrumentation Engineering | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-control-instrumentation-engineering-8d478e2b) |
-| **Lecturer in Electrical Engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-in-electrical-engineering-303c2d1d) |
-| **Assistant / Associate / Full Professor** | Industrial & Systems Engineering | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-industrial-systems-engineering-b555dd13) |
-| **Lecturer / Senior Lecturer** | Electrical Engineering | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-senior-lecturer-electrical-engineering-07440f8c) |
-| **Lecturer in Information Systems and Operations Management** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-in-information-systems-and-operations-management-1a3c0d36) |
-| **Lecturer in Industrial & Systems Engineering (Saudi nationals only)** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-in-industrial-systems-engineering-saudi-nationals-only-89ea2528) |
-| **Assistant / Associate / Full Professor in Control and Instrumentation Engineering Department** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-control-and-instrumentation-engineeri-ae823c64) |
 | **Graduate assistant in Computer Engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/graduate-assistant-in-computer-engineering-58d1fbf1) |
-| **Assistant / Associate / Full Professor in Computer Engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-computer-engineering-8ea94ad0) |
-| **Assistant / Associate / Full Professor in Industrial & Systems Engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-industrial-systems-engineering-0288aa8c) |
-| **Assistant / Associate / Full Professor in Information and Computer Science** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-information-and-computer-science-a6290e6d) |
 | **Assistant/Associate/Full Professor – Computer Engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-computer-engineering-42711ad1) |
-| **Assistant / Associate / Full Professor in Electrical engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-electrical-engineering-531ec25c) |
-| **Lecturer** | Information & Computer Science | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-information-computer-science-36d92b6e) |
-| **Assistant / Associate / Full Professor** | Information Systems and Operations Management | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-information-systems-and-operations-manag-90d21832) |
-| **Graduate Assistant in Electrical Engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/graduate-assistant-in-electrical-engineering-d53886f3) |
-| **Assistant / Associate / Full Professor** | Electrical Engineering | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-electrical-engineering-3e5abb61) |
-| **Lecturer in Computer Science at the Prep Year program** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-in-computer-science-at-the-prep-year-program-9cc5a194) |
 | **Graduate Assistant in Industrial & Systems Engineering** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/graduate-assistant-in-industrial-systems-engineering-edfb0dd4) |
-| **Assistant / Associate / Full Professor in Information Systems and Operations Management** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-information-systems-and-operations-ma-ca310fad) |
 | **Graduate Assistant in Information Systems and Operations Management** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/graduate-assistant-in-information-systems-and-operations-management-0e811b47) |
 | **Graduate Assistant in Geosciences** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/graduate-assistant-in-geosciences-5f817b68) |
-| **Lecturer in Control and Instrumentation Engineering Department** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-in-control-and-instrumentation-engineering-department-121ea85b) |
 | **Graduate Assistant in Control and Instrumentation Engineering Department** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/graduate-assistant-in-control-and-instrumentation-engineering-department-094de329) |
-| **Lecturer in Computer Engineering (Saudi nationals only)** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-in-computer-engineering-saudi-nationals-only-46253183) |
-| **Lecturer** | Entrepreneurship | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-entrepreneurship-15ba8a60) |
-| **Lecturer** | Industrial & Systems Engineering | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/lecturer-industrial-systems-engineering-8f875aed) |
 | **Graduate assistant in Information and Computer Science** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/graduate-assistant-in-information-and-computer-science-8c880e5c) |
-| **Assistant / Associate / Full Professor** | Information & Computer Science | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-information-computer-science-3b373444) |
-| **Assistant / Associate / Full Professor in Geosciences** | King Fahd University of Petroleum & Minerals | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/assistant-associate-full-professor-in-geosciences-ec0255cf) |
 | **Digital Learning Platform Officer** | European Union Agency for Law Enforcement Training (CEPOL) | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/digital-learning-platform-officer-445838af) |
 | **IT Security Assistant – Endpoint Security** | European External Action Service | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/it-security-assistant-endpoint-security-deb9d4ca) |
 | **ICT Security Assistant** | Council of the European Union | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ict-security-assistant-054f4e39) |
 | **Electronics Engineer ATLAS ITk Pixel OB (EP-ATL-TRK-2026-256-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/electronics-engineer-atlas-itk-pixel-ob-ep-atl-trk-2026-256-grae-49077710) |
-| **Junior Electrical Systems Asset Manager (EN-EL-MO-2026-253-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/junior-electrical-systems-asset-manager-en-el-mo-2026-253-grae-cf84addf) |
 | **Database Infrastructure Engineer (IT-DA-DB-2026-174-LD)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/database-infrastructure-engineer-it-da-db-2026-174-ld-d205123b) |
 | **Junior Automation & Controls Engineer (SY-EPC-CCS-2026-254-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/junior-automation-controls-engineer-sy-epc-ccs-2026-254-grae-a35d1bec) |
 | **Junior Distributed Storage Engineer (IT-SD-PDS-2026-246-GRAE)** | CERN | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/junior-distributed-storage-engineer-it-sd-pds-2026-246-grae-0d99d127) |
@@ -189,13 +191,10 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **AI Content Specialist** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ai-content-specialist-44a02451) |
 | **GEO Expert** | Hybrid | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/geo-expert-hybrid-9d1499d8) |
 | **Information Systems Officer, P3** | United Nations | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/information-systems-officer-p3-32533468) |
-| **Groepshoofd cluster Plantaardige Genetische Bronnen (PGR) van de WOT-unit CGN** | Wageningen University & Research | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/groepshoofd-cluster-plantaardige-genetische-bronnen-pgr-van-de-wot-unit-cgn-d3da81f1) |
 | **Senior Data Scientist — Risk Modeling** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-data-scientist-risk-modeling-f0fba430) |
-| **Account Executive Fleet & Fuel Specialist** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/account-executive-fleet-fuel-specialist-cf57564a) |
 | **Compliance Operations Associate** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/compliance-operations-associate-5f8b368f) |
 | **Global Head of Product Marketing (AI-Native)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/global-head-of-product-marketing-ai-native-5e077a1c) |
 | **Growth Designer (AI Focused)** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/growth-designer-ai-focused-044ece5d) |
-| **Account Executive** | Clara Cobranza | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/account-executive-clara-cobranza-a3361c29) |
 | **AI CRM Analyst** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ai-crm-analyst-0ec8d2dd) |
 | **Senior Backend Engineer — Risk** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/senior-backend-engineer-risk-67c6ec8c) |
 | **Solutions Engineer** | Clara | Job | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/solutions-engineer-1fd39243) |
@@ -232,7 +231,6 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 | **Master’s Programme in Applied Cybersecurity (Erasmus Mundus Joint Master’s Degree)** | CyberMACS Consortium | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/masters-programme-in-applied-cybersecurity-erasmus-mundus-joint-masters-deg-5f037fd0) |
 | **FIPDes Master Program** | FIPDes | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/fipdes-master-program-bad47908) |
 | **SEAS 4.0 Master Programme** | University of Naples Federico II | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/seas-4-0-master-programme-56b87d47) |
-| **Master of Science in Mechanics of Sustainable Materials and Structures** | TU Dortmund University, University of Trento, and Ecole Centrale de Nantes | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/master-of-science-in-mechanics-of-sustainable-materials-and-structures-3c8473cc) |
 | **European Master in Linguistic Data Science** | European Master in Linguistic Data Science (EMLDS) | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/european-master-in-linguistic-data-science-48a2f6b4) |
 | **Harnessing Space Technology for Africa's Sustainable Development Training** | African Space Agency | Training | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/harnessing-space-technology-for-africas-sustainable-development-training-5e505cf9) |
 
@@ -240,6 +238,8 @@ Powered by [NextTechCareer](https://nexttechcareer.com) — indexing global STEM
 
 | Opportunity | Organization | Type | Apply Link |
 | :--- | :--- | :--- | :--- |
+| **PhD Positions Wireless Comms, Computer Networks, Satellite Systems and Cybersecurity** | RESILIOUS / TU Delft | PhD | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/resilious-tu-delft-phd-positions-wireless-comms-computer-networks-satellite-systems) |
+| **PhD position: Visualization and comparison of pangenomes** | Wageningen University & Research | PhD | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/wageningen-university-research-phd-position-visualization-and-comparison-of-pangenomes) |
 | **EarthMENA 2027 Conference** | IEREK | Conference | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/ierek-earthmena-2027-conference) |
 | **18th Joint Urban Remote Sensing Event – JURSE 2027** | Joint Urban Remote Sensing Event (JURSE) | Conference | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/18th-joint-urban-remote-sensing-event-jurse-2027) |
 | **6th International Land Management Conference** | Land – International Network for Knowledge (LINK) | Conference | [Apply on NextTechCareer ↗](https://nexttechcareer.com/opportunities/6th-international-land-management-conference-ff31e67a) |
